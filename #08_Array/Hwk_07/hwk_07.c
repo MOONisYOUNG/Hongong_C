@@ -9,7 +9,6 @@ int main(void)
 	gets_s(str, sizeof(str));
 
 	size = sizeof(str) / sizeof(str[0]);
-
 	for (i = 0; i < size; i++)
 	{
 		if (str[i] == '\0') break;
