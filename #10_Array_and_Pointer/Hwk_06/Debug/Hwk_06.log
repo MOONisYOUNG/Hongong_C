@@ -1,0 +1,3 @@
+﻿  hwk_06.c
+D:\Coding\Study\Hongong_C\#10_Array_and_Pointer\Hwk_06\hwk_06.c(46,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  Hwk_06.vcxproj -> D:\Coding\Study\Hongong_C\#10_Array_and_Pointer\Hwk_06\Debug\Hwk_06.exe
