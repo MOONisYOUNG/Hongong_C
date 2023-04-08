@@ -17,6 +17,6 @@ int main(void)
 			cnt = 0;
 		}
 	}
-	printf("°¡Àå ±ä ´Ü¾îÀÇ ±æÀÌ : %d", temp);
+	printf("ê°€ì¥ ê¸´ ë‹¨ì–´ì˜ ê¸¸ì´ : %d", temp);
 	return 0;
 }
